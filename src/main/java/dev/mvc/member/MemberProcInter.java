@@ -1,5 +1,5 @@
 package dev.mvc.member;
 
-public class MemberProcInter {
+public interface MemberProcInter {
 
 }
